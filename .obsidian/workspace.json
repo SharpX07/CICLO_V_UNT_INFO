@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodologias de desarrollo de software.md",
+                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodologias de desarrollo de software.md"
+                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologias de desarrollo de software.md",
+                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodologias de desarrollo de software.md",
+                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +167,11 @@
   },
   "active": "2a5c82eb73788297",
   "lastOpenFiles": [
+    "BASE DE DATOS/Base de datos.md",
+    "Metodologias de desarrollo de software.md",
     "Ingeniería de Software.md",
     "Que es Software.md",
     "Inteligencia Artificial.md",
-    "BASE DE DATOS/Base de datos.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Decodificadores.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Comparadores.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Codificadores.md",
@@ -178,7 +179,6 @@
     "BASE DE DATOS",
     "UNT CICLO V HOMEPAGE.md",
     "Excalidraw/Drawing 2023-05-10 20.21.10.excalidraw.md",
-    "Metodologias de desarrollo de software.md",
     "Metodologias.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Códigos ponderados.md",
     "Pasted image 20230510202621.png",
@@ -187,7 +187,7 @@
     "Excalidraw",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Multiplexores.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Convertidores de Código.md",
-    "Mapa de Karnaugh.md",
+    "TECNICAS DIGITALES/Mapa de Karnaugh.md",
     "Pasted image 20230509233439.png",
     "Pasted image 20230509233303.png",
     "Pasted image 20230509232450.png.md",
