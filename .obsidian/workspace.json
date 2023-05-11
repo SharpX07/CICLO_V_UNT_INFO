@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6af4522b1fe36e3c",
+        "id": "63cd013387e5aef7",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5c82eb73788297",
+            "id": "13452be80bcac05b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
+                "file": "BASE DE DATOS/Modelos de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c53737894e3cdf84",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "bf7ea7f7c88f4a40",
             "type": "leaf",
             "state": {
@@ -58,26 +48,40 @@
             }
           },
           {
-            "id": "c537e5324b847214",
+            "id": "6803a5fe258477c7",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "diagram-edit",
+              "state": {
+                "file": "BASE DE DATOS/Diagrama_ejemplo.svg"
+              }
             }
           },
           {
-            "id": "52a402551896abac",
+            "id": "0d4716458cebaee0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99abc5925a4ca757",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 309.000732421875
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b10161e87b09cb7a",
@@ -94,7 +98,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -104,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md"
+                "file": "BASE DE DATOS/Modelos de datos.md"
               }
             }
           },
@@ -122,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
+                "file": "BASE DE DATOS/Modelos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
+                "file": "BASE DE DATOS/Modelos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +158,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -165,9 +169,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a5c82eb73788297",
+  "active": "13452be80bcac05b",
   "lastOpenFiles": [
+    "BASE DE DATOS/Diagrama_ejemplo.svg",
+    "BASE DE DATOS/Modelos de datos.md",
+    "Pasted image 20230510232904.png",
+    "2023-05-10.md",
+    "TECNICAS DIGITALES/Circuitos Combinacionales/Circuitos Combinacionles.md",
     "BASE DE DATOS/Base de datos.md",
+    "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
     "Metodologias de desarrollo de software.md",
     "Ingeniería de Software.md",
     "Que es Software.md",
@@ -175,7 +185,6 @@
     "TECNICAS DIGITALES/Circuitos Combinacionales/Decodificadores.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Comparadores.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Codificadores.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Circuitos Combinacionles.md",
     "BASE DE DATOS",
     "UNT CICLO V HOMEPAGE.md",
     "Excalidraw/Drawing 2023-05-10 20.21.10.excalidraw.md",
@@ -196,10 +205,7 @@
     "Pasted image 20230509215704.png",
     "Pasted image 20230509220437.png",
     "Pasted image 20230509222643.png",
-    "Pasted image 20230509224218.png",
-    "Pasted image 20230509225339.png",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Decodificadores de una salida por combinación.md",
-    "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
     "Untitled.md",
     "Untitled.canvas",
     "Metodología de la Investigación.md",
@@ -210,8 +216,6 @@
     "TECNICAS DIGITALES/Imagenes/Book1/thumbnails",
     "TECNICAS DIGITALES/Imagenes/Book1/fonts/Carlito_5.woff",
     "TECNICAS DIGITALES/Imagenes/Book1/fonts",
-    "TECNICAS DIGITALES/Imagenes/Book1/search.json",
-    "Decodificadores de una salida por combinación.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Demultiplexores.md"
+    "TECNICAS DIGITALES/Imagenes/Book1/search.json"
   ]
 }

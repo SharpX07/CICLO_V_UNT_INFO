@@ -5,5 +5,6 @@
   "table-extended",
   "obsidian-pandoc",
   "obsidian-excalidraw-plugin",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "obsidian-editor-shortcuts"
 ]

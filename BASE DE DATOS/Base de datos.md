@@ -1,0 +1,19 @@
+# Unidades
+---
+- ## Unidad 1
+	- ## Semana 1:
+		- [[Modelos de datos]]
+		- 
+	- ## Semana 2 
+	- ## Semana 3 
+	- ## Semana 4:
+- ## Unidad 2
+	- ## Semana 1 
+	- ## Semana 2 
+	- ## Semana 3 
+	- ## Semana 4 
+- ## Unidad 3
+	- ## Semana 1 
+	- ## Semana 2 
+	- ## Semana 3 
+	- ## Semana 4 
