@@ -1,5 +1,5 @@
 # Proceso de Software
-Conjunto estructurado de actividades necesarias para desarrollar un software. Existen distintos tipos de procesos, pero todos siguen estos parametros.
+Conjunto estructurado de actividades necesarias para desarrollar un software. Existen distintos tipos de procesos, pero todos siguen estos parámetros.
 ___
 - **Especificación:** La definición de lo que el sistema debe hacer
 - **Diseño e implementación:** La definición de la organización del sistema y la implementación del sistema.

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13452be80bcac05b",
+            "id": "6803a5fe258477c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASE DE DATOS/Modelos de datos.md",
+                "file": "Ingeniería de Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,22 +38,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#desarrollo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "6803a5fe258477c7",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "BASE DE DATOS/Diagrama_ejemplo.svg"
               }
             }
           },
@@ -75,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b10161e87b09cb7a",
@@ -108,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BASE DE DATOS/Modelos de datos.md"
+                "file": "Ingeniería de Software.md"
               }
             }
           },
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASE DE DATOS/Modelos de datos.md",
+                "file": "Ingeniería de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BASE DE DATOS/Modelos de datos.md",
+                "file": "Ingeniería de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,24 +157,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13452be80bcac05b",
+  "active": "6803a5fe258477c7",
   "lastOpenFiles": [
-    "BASE DE DATOS/Diagrama_ejemplo.svg",
+    "Planificación de proyectos de desarrollo de software.md",
+    "Ingeniería de Software.md",
+    "Tipos de Desarrollo de Software.md",
+    "Pasted image 20230511101200.png",
+    "Pasted image 20230511101134.png",
+    "Pasted image 20230511100935.png",
+    "Metodologias de desarrollo de software.md",
+    "¿Qué es Ingeniería de Software.md",
+    "Imágenes de interés.md",
+    "Pasted image 20230511095731.png",
+    "Pasted image 20230511095714.png",
+    "Conocer a la empresa.md",
+    "Pirámide Organizacional.md",
+    "Que es Software.md",
+    "BASE DE DATOS/Base de datos.md",
     "BASE DE DATOS/Modelos de datos.md",
+    "UNT CICLO V HOMEPAGE.md",
+    "BASE DE DATOS/Diagrama_ejemplo.svg",
     "Pasted image 20230510232904.png",
     "2023-05-10.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Circuitos Combinacionles.md",
-    "BASE DE DATOS/Base de datos.md",
     "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
-    "Metodologias de desarrollo de software.md",
-    "Ingeniería de Software.md",
-    "Que es Software.md",
     "Inteligencia Artificial.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Decodificadores.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Comparadores.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Codificadores.md",
     "BASE DE DATOS",
-    "UNT CICLO V HOMEPAGE.md",
     "Excalidraw/Drawing 2023-05-10 20.21.10.excalidraw.md",
     "Metodologias.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Códigos ponderados.md",
@@ -199,17 +198,7 @@
     "TECNICAS DIGITALES/Mapa de Karnaugh.md",
     "Pasted image 20230509233439.png",
     "Pasted image 20230509233303.png",
-    "Pasted image 20230509232450.png.md",
-    "Pasted image 20230509232450.png",
-    "Pasted image 20230509232410.png",
-    "Pasted image 20230509215704.png",
-    "Pasted image 20230509220437.png",
-    "Pasted image 20230509222643.png",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Decodificadores de una salida por combinación.md",
-    "Untitled.md",
     "Untitled.canvas",
-    "Metodología de la Investigación.md",
-    "Compiladores.md",
     "TECNICAS DIGITALES/Untitled",
     "TECNICAS DIGITALES/Repaso",
     "TECNICAS DIGITALES/Circuitos Combinacionales",
