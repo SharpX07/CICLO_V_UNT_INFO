@@ -1,0 +1,22 @@
+# Unidades
+---
+- ## Unidad 1
+	- ## Semana 1:
+		- ## [[Circuitos Combinacionles]]
+		- ## [[Decodificadores]]
+	- ## Semana 2 [[Codificadores]]
+	- ## Semana 3 [[Convertidores de Código]]
+	- ## Semana 4:
+		- ## [[Multiplexores ]]
+		- ## [[Demultiplexores]]
+		- ## [[Comparadores]]
+- ## Unidad 2
+	- ## Semana 1 [[Circuitos Combinacionles]]
+	- ## Semana 2 [[Circuitos Combinacionles]]
+	- ## Semana 3 [[Circuitos Combinacionles]]
+	- ## Semana 4 [[Circuitos Combinacionles]]
+- ## Unidad 3
+	- ## Semana 1 [[Circuitos Combinacionles]]
+	- ## Semana 2 [[Circuitos Combinacionles]]
+	- ## Semana 3 [[Circuitos Combinacionles]]
+	- ## Semana 4 [[Circuitos Combinacionles]]

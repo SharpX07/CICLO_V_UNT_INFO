@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"Miguel Piedra","subject":"","keywords":"","creator":"Calc","producer":"LibreOffice 7.0","creationdate":"D:20230417010140+02'00'","moddate":"","trapped":"","fileName":"Book1.pdf","bounds":[[909,1286]],"bookmarks":[{"title":"Sheet1","page":1,"zoom":"XYZ 0 1286 0"}],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
