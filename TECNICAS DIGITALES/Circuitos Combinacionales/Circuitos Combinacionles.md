@@ -9,8 +9,3 @@ ___
 ## Visto en la semana
 - [[Decodificadores]]
 ___
-## Repasar
-- [[Mapa de Karnaugh]]
-- [[Método de Quine-McCluskey]]
-- [[Variables No Importa]]
-- [[Compuertas Lógicas]]
