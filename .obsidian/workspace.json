@@ -44,31 +44,19 @@
             }
           },
           {
-            "id": "9ae17e473fdd0693",
+            "id": "47e835209a2b939b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECNICAS DIGITALES/Unidad 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13452be80bcac05b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TECNICAS DIGITALES/Circuitos Combinacionales/Circuitos Combinacionles.md",
+                "file": "TECNICAS DIGITALES/Circuito Sumador Medio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECNICAS DIGITALES/Circuito Sustractor.md"
+                "file": "TECNICAS DIGITALES/Circuito Sumador Medio.md"
               }
             }
           },
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECNICAS DIGITALES/Circuito Sustractor.md",
+                "file": "TECNICAS DIGITALES/Circuito Sumador Medio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECNICAS DIGITALES/Circuito Sustractor.md",
+                "file": "TECNICAS DIGITALES/Circuito Sumador Medio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,13 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50085c3db34da735",
+  "active": "47e835209a2b939b",
   "lastOpenFiles": [
     "TECNICAS DIGITALES/Circuito Sumador.md",
-    "TECNICAS DIGITALES/Circuitos Aritméticos.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Codificadores.md",
+    "TECNICAS DIGITALES/Circuito Sumador Medio.md",
     "TECNICAS DIGITALES/Unidad 1.md",
     "TECNICAS DIGITALES/Circuito Sustractor.md",
+    "TECNICAS DIGITALES/Circuitos Aritméticos.md",
+    "TECNICAS DIGITALES/Circuitos Combinacionales/Codificadores.md",
     "TECNICAS DIGITALES/Repaso/Repaso.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Circuitos Combinacionles.md",
     "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
@@ -244,7 +233,6 @@
     "Pasted image 20230510232904.png",
     "INGENIERÍA DE SOFTWARE/Que es Software.md",
     "TECNICAS DIGITALES/Circuitos Combinacionales/Decodificadores.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Comparadores.md",
     "BASE DE DATOS",
     "Pasted image 20230510202621.png",
     "Excalidraw/desktop.ini",
