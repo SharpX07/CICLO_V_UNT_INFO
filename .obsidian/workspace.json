@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63cd013387e5aef7",
+        "id": "3c6e0e4ed5d5bf64",
         "type": "tabs",
         "children": [
           {
-            "id": "6803a5fe258477c7",
+            "id": "ab03625ef8cb1187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software.md",
+                "file": "Compiladores.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,9 +51,11 @@
             "id": "0d4716458cebaee0",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Compiladores.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -64,12 +66,24 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f9a0f6830bbf5288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b10161e87b09cb7a",
@@ -96,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software.md"
+                "file": "Compiladores.md"
               }
             }
           },
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software.md",
+                "file": "Compiladores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software.md",
+                "file": "Compiladores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,54 +171,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6803a5fe258477c7",
+  "active": "ab03625ef8cb1187",
   "lastOpenFiles": [
-    "Planificación de proyectos de desarrollo de software.md",
+    "Compiladores.md",
+    "Patrones, acciones, operadores y expresiones regulares.md",
+    "Patrones, ER, operadores y acciones.md",
+    "Implementación de analizadores léxicos (FLEX - Codificación automática).md",
+    "Implementación de analizadores léxico (Codificación manual).md",
+    "Pasted image 20230612200505.png",
+    "Pasted image 20230612200441.png",
+    "Pasted image 20230612200041.png",
+    "Pasted image 20230612195956.png",
+    "Pasted image 20230612195951.png",
+    "FLEX.md",
+    "Pasted image 20230612192249.png",
+    "Pasted image 20230612192242.png",
+    "Pasted image 20230612192201.png",
+    "Pasted image 20230612191230.png",
+    "Pasted image 20230612182746.png",
+    "Análisis Léxico.md",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2023-06-12 17.08.24.excalidraw.md",
     "Ingeniería de Software.md",
     "Tipos de Desarrollo de Software.md",
-    "Pasted image 20230511101200.png",
-    "Pasted image 20230511101134.png",
-    "Pasted image 20230511100935.png",
     "Metodologias de desarrollo de software.md",
-    "¿Qué es Ingeniería de Software.md",
     "Imágenes de interés.md",
-    "Pasted image 20230511095731.png",
-    "Pasted image 20230511095714.png",
     "Conocer a la empresa.md",
     "Pirámide Organizacional.md",
+    "¿Qué es Ingeniería de Software.md",
     "Que es Software.md",
-    "BASE DE DATOS/Base de datos.md",
-    "BASE DE DATOS/Modelos de datos.md",
-    "UNT CICLO V HOMEPAGE.md",
-    "BASE DE DATOS/Diagrama_ejemplo.svg",
-    "Pasted image 20230510232904.png",
-    "2023-05-10.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Circuitos Combinacionles.md",
-    "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
+    "Búsqueda en espacio de estados.md",
     "Inteligencia Artificial.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Decodificadores.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Comparadores.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Codificadores.md",
+    "Torres de Hanoi.md",
+    "Definiciones previas.md",
+    "Búsqueda no informada.md",
+    "TECNICAS DIGITALES/Circuitos Combinacionales/Circuitos Combinacionles.md",
+    "TECNICAS DIGITALES/Mapa de Karnaugh.md",
+    "BASE DE DATOS/Base de datos.md",
+    "BASE DE DATOS/Untitled.md",
+    "Untitled.md",
+    "Untitled",
     "BASE DE DATOS",
-    "Excalidraw/Drawing 2023-05-10 20.21.10.excalidraw.md",
-    "Metodologias.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Códigos ponderados.md",
-    "Pasted image 20230510202621.png",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Códigos no ponderados.md",
     "Excalidraw/desktop.ini",
     "Excalidraw",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Multiplexores.md",
-    "TECNICAS DIGITALES/Circuitos Combinacionales/Convertidores de Código.md",
-    "TECNICAS DIGITALES/Mapa de Karnaugh.md",
-    "Pasted image 20230509233439.png",
-    "Pasted image 20230509233303.png",
     "Untitled.canvas",
     "TECNICAS DIGITALES/Untitled",
     "TECNICAS DIGITALES/Repaso",
     "TECNICAS DIGITALES/Circuitos Combinacionales",
     "TECNICAS DIGITALES/Imagenes/Book1/thumbnails",
     "TECNICAS DIGITALES/Imagenes/Book1/fonts/Carlito_5.woff",
-    "TECNICAS DIGITALES/Imagenes/Book1/fonts",
-    "TECNICAS DIGITALES/Imagenes/Book1/search.json"
+    "TECNICAS DIGITALES/Imagenes/Book1/fonts"
   ]
 }
