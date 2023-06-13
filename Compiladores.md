@@ -7,4 +7,8 @@
 [[FLEX]]
 [[Patrones, acciones, operadores y expresiones regulares]]
 # Semana 9
-
+[[Analizador Sintáctico]]
+[[Gramática Libre de Contexto]]
+[[Árbol de Análisis Sintáctico]]
+[[Error Sintáctico]]
+[[Estrategias de análisis sintáctico]]
