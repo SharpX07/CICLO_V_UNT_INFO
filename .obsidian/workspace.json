@@ -11,12 +11,8 @@
             "id": "ab03625ef8cb1187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiladores.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,18 +44,6 @@
             }
           },
           {
-            "id": "0d4716458cebaee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiladores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "99abc5925a4ca757",
             "type": "leaf",
             "state": {
@@ -78,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -109,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Compiladores.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiladores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiladores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,20 +153,36 @@
   },
   "active": "ab03625ef8cb1187",
   "lastOpenFiles": [
-    "Estrategias de análisis sintáctico.md",
-    "Pasted image 20230613093656.png",
-    "Pasted image 20230613093639.png",
-    "Pasted image 20230613093550.png",
-    "Pasted image 20230613093308.png",
-    "Pasted image 20230613092926.png",
     "Compiladores.md",
-    "Pasted image 20230613092427.png",
-    "Pasted image 20230613092402.png",
-    "Pasted image 20230613092338.png",
+    "INTELIGENCIA ARTIFICIAL/imagenes/Pasted image 20230514012143.png",
+    "INTELIGENCIA ARTIFICIAL/imagenes/Pasted image 20230514011551.png",
+    "INTELIGENCIA ARTIFICIAL/imagenes/Pasted image 20230514011513.png",
+    "INTELIGENCIA ARTIFICIAL/imagenes/Pasted image 20230514010201.png",
+    "INTELIGENCIA ARTIFICIAL/imagenes/Pasted image 20230514004158.png",
+    "INTELIGENCIA ARTIFICIAL/imagenes/Pasted image 20230514004153.png",
+    "INTELIGENCIA ARTIFICIAL/Torres de Hanoi.md",
+    "INTELIGENCIA ARTIFICIAL/Inteligencia Artificial.md",
+    "INTELIGENCIA ARTIFICIAL/Definiciones previas.md",
+    "INTELIGENCIA ARTIFICIAL/imagenes",
+    "INTELIGENCIA ARTIFICIAL/Búsqueda no informada.md",
+    "INTELIGENCIA ARTIFICIAL/Búsqueda en espacio de estados.md",
+    "INTELIGENCIA ARTIFICIAL",
+    "COMPILADORES/imagenes/Pasted image 20230612200505.png",
+    "COMPILADORES/imagenes/Pasted image 20230612200441.png",
+    "COMPILADORES/imagenes/Pasted image 20230612200041.png",
+    "COMPILADORES/imagenes/Pasted image 20230612195956.png",
+    "COMPILADORES/imagenes",
+    "COMPILADORES/Patrones, acciones, operadores y expresiones regulares.md",
+    "COMPILADORES/Patrones, ER, operadores y acciones.md",
+    "COMPILADORES/Implementación de analizadores léxicos (FLEX - Codificación automática).md",
+    "COMPILADORES/Implementación de analizadores léxico (Codificación manual).md",
+    "COMPILADORES/FLEX.md",
+    "COMPILADORES/Compiladores.md",
+    "COMPILADORES/Análisis Léxico.md",
+    "COMPILADORES",
+    "Estrategias de análisis sintáctico.md",
     "Error Sintáctico.md",
-    "Pasted image 20230613091842.png",
     "Gramática Libre de Contexto.md",
-    "Pasted image 20230613090339.png",
     "Árbol de Análisis Sintáctico.md",
     "Analizador Sintáctico.md",
     "TECNICAS DIGITALES/Técnicas Digitales Para Computación.md",
@@ -196,29 +192,13 @@
     "Patrones, acciones, operadores y expresiones regulares.md",
     "FLEX.md",
     "Implementación de analizadores léxicos (FLEX - Codificación automática).md",
-    "Implementación de analizadores léxico (Codificación manual).md",
-    "Análisis Léxico.md",
-    "TECNICAS DIGITALES/Unidad 2.md",
-    "TECNICAS DIGITALES/Unidad 1.md",
-    "TECNICAS DIGITALES/Repaso/Repaso.md",
-    "TECNICAS DIGITALES/Repaso/Mapa de Karnaugh.md",
     "TECNICAS DIGITALES/Repaso",
-    "TECNICAS DIGITALES/Circuitos Aritméticos.md",
-    "INGENIERÍA DE SOFTWARE/¿Qué es Ingeniería de Software.md",
-    "INGENIERÍA DE SOFTWARE/Tipos de Desarrollo de Software.md",
-    "INGENIERÍA DE SOFTWARE/Que es Software.md",
-    "INGENIERÍA DE SOFTWARE/Planificación de proyectos de desarrollo de software.md",
-    "INGENIERÍA DE SOFTWARE/Pirámide Organizacional.md",
     "INGENIERÍA DE SOFTWARE",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled",
     "BASE DE DATOS",
     "Excalidraw/desktop.ini",
-    "Excalidraw",
-    "TECNICAS DIGITALES/Untitled",
-    "TECNICAS DIGITALES/Circuitos Combinacionales",
-    "TECNICAS DIGITALES/Imagenes/Book1/thumbnails",
-    "TECNICAS DIGITALES/Imagenes/Book1/fonts/Carlito_5.woff"
+    "Excalidraw"
   ]
 }
